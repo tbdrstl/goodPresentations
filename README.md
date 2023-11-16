@@ -24,6 +24,6 @@ The following is a loose collection of Dos and Don'ts when giving a talk. The li
 
 10. False ends you went after are only interesting if something new came out of it. 
 
-11. German scientists sometimes seem to struggle with the words "examine", "advantageous" and "determinde". Here is how to pronounce them correctly: `/ɪgˈzæm.ɪn/`, `/ˌæd.vænˈteɪ.dʒəs/`, `/dɪˈtɜː.mɪn/`
+11. German scientists sometimes seem to struggle with the words "examine", "advantageous" and "determine". Here is how to pronounce them correctly: `/ɪgˈzæm.ɪn/`, `/ˌæd.vænˈteɪ.dʒəs/`, `/dɪˈtɜː.mɪn/`
 
 12. A talk is mainly about selling yourself and your ideas. You shouldn't talk down your results by stressing how different people researched similar topics. If what you have been doing is not new or important, why should people even listen?
