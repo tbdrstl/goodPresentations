@@ -1,7 +1,8 @@
+# Good Presentations
 There are many occasions where you have to listen to talks or even give them yourself. 
 
 Throughout many conferences, seminars and lectures, some patterns emerged on what differentiates good from bad talks. 
-The following is a loose collection of Do's and Don'ts when giving a talk. The list is far from complete, so you are highly invited to make further suggestions.
+The following is a loose collection of Dos and Don'ts when giving a talk. The list is far from complete, so you are highly invited to make further suggestions.
 
 1. Never let the audience think you are bored by your topic. Especially when researching a topic for months, many crucial things seem obvious to you, and most likely, most of your audience will hear them for the first time
 
@@ -23,6 +24,6 @@ The following is a loose collection of Do's and Don'ts when giving a talk. The l
 
 10. False ends you went after are only interesting if something new came out of it. 
 
-11. German scientists sometimes seem to struggle with the words "advantageous" and "determine". Here is how to pronounce them correctly: `/ɪgˈzæm.ɪn/`, `/ˌæd.vænˈteɪ.dʒəs/`
+11. German scientists sometimes seem to struggle with the words "examine", "advantageous" and "determinde". Here is how to pronounce them correctly: `/ɪgˈzæm.ɪn/`, `/ˌæd.vænˈteɪ.dʒəs/`, `/dɪˈtɜː.mɪn/`
 
-12. A talk is mainly about selling yourself and your ideas. You shouldn't talk down your results by stressing how different people researched similar topics. If it is not important or new what you have been doing, why should people even listen?
+12. A talk is mainly about selling yourself and your ideas. You shouldn't talk down your results by stressing how different people researched similar topics. If what you have been doing is not new or important, why should people even listen?
