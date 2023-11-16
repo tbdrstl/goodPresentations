@@ -2,7 +2,7 @@
 There are many occasions where you have to listen to talks or even give them yourself. 
 
 Throughout many conferences, seminars and lectures, some patterns emerged on what differentiates good from bad talks. 
-The following is a loose collection of Dos and Don'ts when giving a talk. The list is far from complete, so you are highly invited to make further suggestions.
+The following is a loose collection of Dos and Don'ts when giving a talk. The list is far from complete, so **you are highly invited to make further suggestions!**
 
 1. Never let the audience think you are bored by your topic. Especially when researching a topic for months, many crucial things seem obvious to you, and most likely, most of your audience will hear them for the first time
 
