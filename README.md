@@ -22,15 +22,20 @@ The following is a loose collection of Dos and Don'ts when giving a talk. The li
 
 9. Calculations and code only belong to the presentation if they are vital for understanding. You can rarely judge whether your own computations or code are relevant. Rule of thumb: No.
 
-10. Plots: they should look nice. Adjusting the font size to match the presentation/paper font can largely improve them. Also, the font has to be of readable size.
+10. False ends you went after are only interesting if something new came out of it. 
 
-11. Plots should be easily readable on a phone's display. Many people look at papers on their phones these days anyway. Moreover, this ensures that the font size is large enough.  
+11. German scientists sometimes seem to struggle with the words "examine", "advantageous" and "determine". Here is how to pronounce them correctly: `/ɪgˈzæm.ɪn/`, `/ˌæd.vænˈteɪ.dʒəs/`, `/dɪˈtɜː.mɪn/`.
 
-12. False ends you went after are only interesting if something new came out of it. 
+12. A talk is mainly about selling yourself and your ideas. You shouldn't talk down your results by stressing how different people researched similar topics. If what you have been doing is not new or important, why should people even listen?
 
-13. German scientists sometimes seem to struggle with the words "examine", "advantageous" and "determine". Here is how to pronounce them correctly: `/ɪgˈzæm.ɪn/`, `/ˌæd.vænˈteɪ.dʒəs/`, `/dɪˈtɜː.mɪn/`.
+13. Be aware that people can do only one thing at a time: they either listen to you or read what is written on your slides. Overfilled slides can distract your audience.
 
-14. A talk is mainly about selling yourself and your ideas. You shouldn't talk down your results by stressing how different people researched similar topics. If what you have been doing is not new or important, why should people even listen?
-
-15. Be aware that people can do only one thing at a time: they either listen to you or read what is written on your slides. Overfilled slides can distract your audience.
  
+## Good Plots
+On top of the talk itself, it is very important to visualize your results appealingly. Therefore plots deserve their own section. However, you already read the most important message: they should look nice!
+
+1. Adjusting the font size to match the presentation/paper font can largely improve them. Also, the font has to be of readable size.
+
+2. Plots should be easily readable on a phone's display. Many people look at papers on their phones these days anyway. Moreover, this ensures that the font size is large enough.  
+
+3. The colors in your plot should be easily distinguishable, even from far away. This can be achieved by picking colors of high contrast. Also, take into account that many people are color vision impaired. There are numerous color palettes designed with this in mind. 
