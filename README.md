@@ -30,7 +30,8 @@ The following is a loose collection of Dos and Don'ts when giving a talk. The li
 
 13. Be aware that people can do only one thing at a time: they either listen to you or read what is written on your slides. Overfilled slides can distract your audience.
 
- 
+14. Dont look at your simple equations too much, look at the audience
+    
 ## Good Plots
 On top of the talk itself, it is very important to visualize your results appealingly. Therefore plots deserve their own section. However, you already read the most important message: they should look nice!
 
